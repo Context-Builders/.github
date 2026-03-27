@@ -1,3 +1,5 @@
+<img alt="Context Builders" src="https://context.builders/logo-mark.svg" width="80">
+
 # Context Builders
 
 **AI agency for companies ready to build with intelligence.**
@@ -31,6 +33,18 @@ Forge orchestrates planning, ticketing, execution, review, and deployment throug
 The agent roster spans the full development lifecycle: **PM · Architect · Frontend · Backend · DBA · DevOps · SRE · SecOps · QA · Data Science** — each with a clearly scoped function and the context to do it well.
 
 Forge is designed for private deployment within any company, is not tied to a single product or tech stack, and supports progressive autonomy only where teams explicitly opt in.
+
+---
+
+### Who we are
+
+Three partners with complementary backgrounds in technology, product, and business — united by twenty-plus years of solving hard problems together.
+
+| | Partner | Background |
+|---|---------|------------|
+| 🛠 | **Chris** | CTO & CPO at the crossroads of tech and product |
+| 🏗 | **Jergen** | Software architect — Booking.com, Unilever, Aldi · Former CTO at Function Interactive |
+| 🚀 | **Slava** | Former CEO of Function Interactive — two decades of delivering Europe's toughest tech projects |
 
 ---
 
