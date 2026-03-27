@@ -34,18 +34,6 @@ Forge is designed for private deployment within any company, is not tied to a si
 
 ---
 
-### Who we are
-
-Three partners with complementary backgrounds in technology, product, and business — united by twenty-plus years of solving hard problems together.
-
-| | Partner | Background |
-|---|---------|------------|
-| 🛠 | **Chris** | CTO & CPO at the crossroads of tech and product |
-| 🏗 | **Jergen** | Software architect — Booking.com, Unilever, Aldi · Former CTO at Function Interactive |
-| 🚀 | **Slava** | Former CEO of Function Interactive — two decades of delivering Europe's toughest tech projects |
-
----
-
 ### Get in touch
 
 🌐 [context.builders](https://context.builders)
