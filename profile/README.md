@@ -1,9 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://context.builders/logo-mark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="logo-mark-dark.svg">
-  <img alt="Context Builders" src="logo-mark-dark.svg" width="80">
-</picture>
-
 # Context Builders
 
 **AI agency for companies ready to build with intelligence.**
