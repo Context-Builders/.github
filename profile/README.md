@@ -1,4 +1,8 @@
-<img alt="Context Builders" src="https://context.builders/logo-mark.svg" width="80">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://context.builders/logo-mark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="logo-mark-dark.svg">
+  <img alt="Context Builders" src="logo-mark-dark.svg" width="80">
+</picture>
 
 # Context Builders
 
